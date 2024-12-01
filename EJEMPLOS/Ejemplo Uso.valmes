@@ -1,0 +1,17 @@
+int EDAD = 3;
+float B = 5.7;
+string M = "ERES_MAYOR";
+string H = "HOLA_MUNDO";
+
+if (EDAD >= 34){
+     while(EDAD>70){ 
+        input("3RA_EDAD");
+        EDAD++;
+     }		
+}
+
+while(100>56){ 
+    for (i in range(1,400)){
+	B=50.0*8;
+    }	
+}
